@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="service_desc">محافظ معامله: فقط یک معامله باز در هر زمان؛ روی دکمه‌های BUY/SELL لایه می‌گذارد و کلیک مجاز را به بروکر می‌رساند.</string>
+</resources>
